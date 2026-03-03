@@ -1,0 +1,45 @@
+{
+      "category": "providers",
+      "game_list": {
+        "1": [
+            {
+                "id": 1,
+                "game_name": "Evolution Gaming",
+                "game_icon_link": "https://stake.metaaidevelopment.com/assets/providers-logo/evolutiongaming.png",
+                "is_enabled": 1
+            }
+        ],
+        "17": [
+            {
+                "id": 17,
+                "game_name": "Ezugi",
+                "game_icon_link": "https://stake.metaaidevelopment.com/assets/providers-logo/ezugi.png",
+                "is_enabled": 1
+            }
+        ],
+        "300": [
+                {
+                    "id": 300,
+                    "game_name": "Spribe",
+                    "game_icon_link": "https://stake.metaaidevelopment.com/assets/providers-logo/spribe.png",
+                    "is_enabled": 1
+                }
+            ],
+            "5": [
+                {
+                    "id": 5,
+                    "game_name": "Asia Gaming",
+                    "game_icon_link": "https://stake.metaaidevelopment.com/assets/providers-logo/asiagaming.png",
+                    "is_enabled": 1
+                }
+            ],
+          "263": [
+              {
+                  "id": 263,
+                  "game_name": "JILLIE",
+                  "game_icon_link": "https://stake.metaaidevelopment.com/assets/providers-logo/jili.png",
+                  "is_enabled": 1
+              }
+          ]
+      }
+  }

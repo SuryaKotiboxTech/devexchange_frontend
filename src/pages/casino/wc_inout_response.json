@@ -1,0 +1,265 @@
+{
+  "game_list": {
+     "400": [
+            {
+                "id": 1885,
+                "game_name": "Penalty Unlimited",
+                "game_uid": "66d311ff6cf531e40b61c483dd34c5c9",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Penalty_Unlimited.png"
+            },
+            {
+                "id": 1886,
+                "game_name": "Chicken Road 2.0",
+                "game_uid": "562b299961b0ec40f252a832453c67b0",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Chicken_Road_2.0.png"
+            },
+            {
+                "id": 1887,
+                "game_name": "Forest Fortune",
+                "game_uid": "458bd34bc83e34501df7e7f96626df6b",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Forest_Fortune.png"
+            },
+            {
+                "id": 1888,
+                "game_name": "Hamster Run",
+                "game_uid": "af95a673c8f3a420444d73421bcf0e7a",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Hamster_Run.png"
+            },
+            {
+                "id": 1889,
+                "game_name": "Plinko Aztec",
+                "game_uid": "134bbc0f61b73824cf9a68411aa32dc6",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Plinko_Aztec.png"
+            },
+            {
+                "id": 1890,
+                "game_name": "SugarDaddy",
+                "game_uid": "3c802c686f7f9270057b6bb69567ea98",
+                "game_type": "crash game",
+                "provider": "inout",
+                "icon": "/Inout/SugarDaddy.png"
+            },
+            {
+                "id": 1891,
+                "game_name": "Chicken Road",
+                "game_uid": "2126c5c458316ba1f2df65b387b60408",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Chicken_Road.png"
+            },
+            {
+                "id": 1892,
+                "game_name": "Joker Poker",
+                "game_uid": "23d59c10bc65c3cfb6cafdf49969a2b7",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Joker_Poker.png"
+            },
+            {
+                "id": 1893,
+                "game_name": "Stairs",
+                "game_uid": "a6212c1c462a2442a369a4ec25bf40d7",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Stairs.png"
+            },
+            {
+                "id": 1894,
+                "game_name": "Triple",
+                "game_uid": "4169b950c7cbd0bbd392941a13e56767",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Triple.png"
+            },
+            {
+                "id": 1895,
+                "game_name": "Jogo Do Bicho",
+                "game_uid": "09a138907ccf03d5c064c5ca71e9d9b3",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Jogo_Do_Bicho.png"
+            },
+            {
+                "id": 1896,
+                "game_name": "Limbo",
+                "game_uid": "81c4999d70b1ebbb7cf89d8e41ad493c",
+                "game_type": "crash game",
+                "provider": "inout",
+                "icon": "/Inout/Limbo.png"
+            },
+            {
+                "id": 1897,
+                "game_name": "AviaFly",
+                "game_uid": "cb66d23b547498132598589af324d558",
+                "game_type": "crash game",
+                "provider": "inout",
+                "icon": "/Inout/AviaFly.png"
+            },
+            {
+                "id": 1898,
+                "game_name": "Lucky mines",
+                "game_uid": "3a3affa176283107288f5da3698ffe7c",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Lucky_mines.png"
+            },
+            {
+                "id": 1899,
+                "game_name": "Сoinflip",
+                "game_uid": "9b48efcf6b18b12fdd7dc8efe9ae971e",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Сoinflip.png"
+            },
+            {
+                "id": 1900,
+                "game_name": "Roulette",
+                "game_uid": "c81286ce4034dcf5b71d44c106f968db",
+                "game_type": "roulette",
+                "provider": "inout",
+                "icon": "/Inout/Roulette.png"
+            },
+            {
+                "id": 1901,
+                "game_name": "Bubbles",
+                "game_uid": "f84949bd783c7395b5f3092f4d4ec600",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Bubbles.png"
+            },
+            {
+                "id": 1902,
+                "game_name": "Mines",
+                "game_uid": "e5e23d4c8f7256a1753793cba5fb5aaf",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Mines.png"
+            },
+            {
+                "id": 1903,
+                "game_name": "Sweet Keno",
+                "game_uid": "2c62ddc0ad8e2c175ec771882e91789b",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Sweet_Keno.png"
+            },
+            {
+                "id": 1904,
+                "game_name": "Hot-mines",
+                "game_uid": "6180fdaf4dfab4042194a7d595aca4bb",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Hot-mines.png"
+            },
+            {
+                "id": 1905,
+                "game_name": "Plinko 1000",
+                "game_uid": "eb3f4260c17737e09767bc4c06796a61",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Plinko_1000.png"
+            },
+            {
+                "id": 1906,
+                "game_name": "Goblin-tower",
+                "game_uid": "46d14949aa244609aaa03fa58b198784",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Goblin-tower.png"
+            },
+            {
+                "id": 1907,
+                "game_name": "Robo dice",
+                "game_uid": "d0ddc8acfbc6836f0db6d270bd83243d",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Robo_dice.png"
+            },
+            {
+                "id": 1908,
+                "game_name": "New Hilo",
+                "game_uid": "f4fd956965b6f08ce48fee7d4407aaed",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/New_Hilo.png"
+            },
+            {
+                "id": 1909,
+                "game_name": "Double",
+                "game_uid": "d8439d6083288f9171930e60836ba505",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Double.png"
+            },
+            {
+                "id": 1910,
+                "game_name": "Diver",
+                "game_uid": "90741c45a03fbfc800f79c3f5a23be44",
+                "game_type": "crash game",
+                "provider": "inout",
+                "icon": "/Inout/Diver.png"
+            },
+            {
+                "id": 1911,
+                "game_name": "Cryptos",
+                "game_uid": "445289d56c9ee8fa590bf6b29b13dc37",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Cryptos.png"
+            },
+            {
+                "id": 1912,
+                "game_name": "Tower",
+                "game_uid": "a51b03beafa1773484d1e9c866709589",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Tower.png"
+            },
+            {
+                "id": 1913,
+                "game_name": "Wheel",
+                "game_uid": "757bdd7e1d8c260807bc78449258d00c",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "/Inout/Wheel.png"
+            },
+            {
+                "id": 1914,
+                "game_name": "Crash",
+                "game_uid": "8ac6b247bd94d71ecdeaa1e62d74f382",
+                "game_type": "crash game",
+                "provider": "inout",
+                "icon": "/Inout/Crash.png"
+            },
+            {
+                "id": 1915,
+                "game_name": "Squid$$$Game",
+                "game_uid": "2bd203129afe1059923b45d7bd5de143",
+                "game_type": "Instant",
+                "provider": "inout",
+                "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png"
+            }
+        ],
+        "500": [
+                {
+                    "id": 844,
+                    "game_name": "LuckSportGaming",
+                    "game_uid": "92b24e4c25107367a80e0fe1a97c24e4",
+                    "game_type": "Sports Game",
+                    "provider": "luckysports",
+                    "icon": "/Inout/LuckySports_Logo.png"
+                }
+            ]
+  },
+  "status": 1
+}
