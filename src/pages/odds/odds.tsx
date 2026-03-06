@@ -120,18 +120,27 @@ const Odds = () => {
     fetchT10Stream()
   }, [marketDataList])
 
-  const scoreBoard = () => {
-    if (currentMatch && currentMatch.sportId == '4333')
-      return <Score matchId={currentMatch?.matchId} isT10={currentMatch?.isT10 || false} />
-    else if (currentMatch)
-      return (
-        <iframe
-          style={{ width: '100%', height: 'auto' }}
-          src={`https://score.hr08bets.in/api?eventid=${currentMatch?.matchId}`}
-        ></iframe>
-      )
+const scoreBoard = () => {
+  if (currentMatch && currentMatch.sportId == '4333') {
+    return (
+      <Score
+        matchId={currentMatch?.matchId}
+        isT10={currentMatch?.isT10 || false}
+      />
+    )
   }
 
+  if (currentMatch) {
+    return (
+      <iframe
+        style={{ width: '100%', height: 'auto' }}
+        src={`https://fancypanel.xyz/pages/scorecardcricket/${currentMatch?.matchId}`}
+      />
+    )
+  }
+
+  return null
+}
   const t10Tv = (height: string) => {
     if (currentMatch && currentMatch.isT10)
       return (
@@ -212,3 +221,6 @@ const Odds = () => {
   )
 }
 export default React.memo(Odds)
+
+
+
